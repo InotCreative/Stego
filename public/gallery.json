@@ -1,0 +1,25 @@
+{
+  "files": [
+    {
+      "id": "sample-landscape-001",
+      "filename": "sample-landscape.svg",
+      "path": "/gallery/sample-landscape.svg",
+      "type": "image/svg+xml",
+      "timestamp": "2026-04-18T10:00:00Z"
+    },
+    {
+      "id": "sample-abstract-002",
+      "filename": "sample-abstract.svg",
+      "path": "/gallery/sample-abstract.svg",
+      "type": "image/svg+xml",
+      "timestamp": "2026-04-18T10:15:00Z"
+    },
+    {
+      "id": "sample-geometric-003",
+      "filename": "sample-geometric.svg",
+      "path": "/gallery/sample-geometric.svg",
+      "type": "image/svg+xml",
+      "timestamp": "2026-04-18T10:30:00Z"
+    }
+  ]
+}
